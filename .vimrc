@@ -1,0 +1,10 @@
+set shiftwidth=4
+set number
+set nobackup
+set fileencoding=euc-kr
+set background=light
+set expandtab
+set hlsearch
+set ignorecase
+colo desert
+syntax on
